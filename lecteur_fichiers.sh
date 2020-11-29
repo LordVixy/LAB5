@@ -1,5 +1,5 @@
 #!/bin/bash
-#utiliser ./list_fichier.sh ~/LAB4
+#utiliser ./lecteur_fichiers.sh ~/LAB4
 
 
 cd $1

@@ -1,0 +1,5 @@
+1. Création du script master.sh -> exécution avec "./master.sh" -> tout fonctionne.
+
+2. Création du script comparateur.sh -> exécution avec "./comparateur.sh var1 var2" -> tout fonctionne.
+
+3.4.5. Création du script lecteur_fichiers.sh -> exécution avec "./lecteur_fichiers ~/LAB4" -> tout fonctionne.
