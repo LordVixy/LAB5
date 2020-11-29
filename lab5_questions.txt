@@ -2,4 +2,6 @@
 
 2. Création du script comparateur.sh -> exécution avec "./comparateur.sh var1 var2" -> tout fonctionne.
 
-3.4.5. Création du script lecteur_fichiers.sh -> exécution avec "./lecteur_fichiers ~/LAB4" -> tout fonctionne.
+3.4.5. Création du script lecteur_fichiers.sh -> exécution avec "./lecteur_fichiers.sh ~/LAB4" -> tout fonctionne.
+
+6. Création du script picture_download.sh -> exécution avec "./picture_download.sh" -> bon fonctionnement du programme. Les 10 images téléchargées !
